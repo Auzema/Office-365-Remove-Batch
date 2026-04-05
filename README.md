@@ -93,5 +93,5 @@ MIT — Do whatever you want with it.
 
 <p align="center">
   <i>"Your PC is now free from Microsuck's grip."</i><br>
-  <b>— Office Terminator</b>
+  <b>— Office 365 Remove Batch</b>
 </p>
