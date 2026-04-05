@@ -70,17 +70,27 @@ Back up any important Office files (documents, templates, Outlook data) before r
 ---
 ## FAQ
 **Q: Will this delete my Word/Excel documents?**
+
 A: No. It only removes Office program files, services, and registry entries. Your `.docx`, `.xlsx`, etc. files in Documents or other folders are safe.
+
 **Q: Can I reinstall Office after running this?**
+
 A: Yes! That's the whole point. Restart your PC after running the script, then install Office fresh.
+
 **Q: It says "must be run as Administrator"?**
+
 A: Right-click the `.bat` file → **Run as administrator**.
+
 **Q: It didn't find any Office installation?**
+
 A: Either Office was already removed, or it's installed in a non-standard location. The script checks both registry and common paths, but exotic setups may need manual cleanup.
+
 ---
 ## License
 MIT — Do whatever you want with it.
 ---
+
+
 <p align="center">
   <i>"Your PC is now free from Microsuck's grip."</i><br>
   <b>— Office Terminator</b>
