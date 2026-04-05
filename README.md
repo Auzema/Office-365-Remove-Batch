@@ -38,27 +38,6 @@ Because Microsoft made uninstalling Office harder than installing it. So we made
 
 6. Reinstall Office (or don't — [LibreOffice](https://www.libreoffice.org/) is free and doesn't hate you).
 
-
-## What it removes
-📁 Program Files\Microsoft Office 
-📁 Program Files (x86)\Microsoft Office 
-📁 Common Files\Microsoft Shared\ClickToRun 
-📁 Common Files\Microsoft Shared\OFFICE15/16 
-📁 ProgramData\Microsoft\ClickToRun 
-📁 ProgramData\Microsoft\Office 
-📁 AppData\Local\Microsoft\Office 
-📁 AppData\Roaming\Microsoft\Office
-📁 AppData\Roaming\Microsoft\Templates 
-🔧 ClickToRunSvc service 
-🔧 OfficeSvc service 
-📋 Office Automatic Updates scheduled task 
-📋 Office ClickToRun Service Monitor scheduled task 
-📋 Office Telemetry Agent scheduled tasks 
-🗝️ HKLM\SOFTWARE\Microsoft\Office\ClickToRun 
-🗝️ HKLM\SOFTWARE\Microsoft\Office\15.0 & 16.0 
-🗝️ HKCU\Software\Microsoft\Office\15.0 & 16.0 
-🗝️ HKLM\SOFTWARE\Microsoft\AppVISV
-
 ## Requirements
 - **Windows 7 / 8 / 10 / 11**
 - **Administrator privileges** (right-click → Run as administrator)
